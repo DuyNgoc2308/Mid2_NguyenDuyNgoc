@@ -1,0 +1,9 @@
+//chay
+Route: http://localhost/Laravel/E-commerceWebsite/index
+
+//tai khoan dang nhap
+Account:
+email: nhimu@gmail.com
+pasword: 1234dsds
+
+Phải đăng nhập trước khi mua hàng, nếu click vào nút mua hàng khi chưa đăng nhập thì hộp thoại đăng nhập sẽ xuất hiện
